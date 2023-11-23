@@ -1,0 +1,10 @@
+name: Wandoria-Inventorys
+version: '${project.version}'
+main: de.villigi.wandoriainventorys.Inventorys
+api-version: '1.20'
+
+commands:
+  invsee:
+  enderchest:
+    aliases:
+      - ec

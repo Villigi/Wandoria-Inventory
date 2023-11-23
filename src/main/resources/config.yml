@@ -1,0 +1,9 @@
+prefix: "&b&lWandoria &7| "
+
+
+messages:
+  no_permissions: "&cDazu hast du keine Rechte!"
+  player_not_online: "&cDieser Spieler ist nicht online!"
+  opened_inventory: "&7Du hast das Inventar von &b %player% &7geöffnet!"
+  wrong_syntax: "&cBitte verwende: /invsee <player>"
+  open_ec: "&7Du hast die Enderchest von &b %player% &7geöffnet!"
